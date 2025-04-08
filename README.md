@@ -2,7 +2,7 @@
 
 ## Overview
 This portfolio is divided into three catagories as  **Power BI**, **Python**,and **T-SQL**.
-This repository contains a collection of innovative projects showcasing my expertise in roles as data analyst, Business Intelligence Analyst and Power BI Developer. 
+This repository contains a collection of innovative projects showcasing my expertise in roles as Data analyst, Business Intelligence Analyst and Power BI Developer. 
 Each project demonstrates different aspects of my technical skills.
 
 ## Repository Structure
