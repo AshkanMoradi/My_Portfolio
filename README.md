@@ -1,12 +1,13 @@
 ###  My Data Analysis portfolio 
-  This portfolio is divided into three catagories such as **'Python'**, **'T-SQL'** and **'Power BI'**.
+  
 - 📫 If you have any question don't hesitate to contact me on [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
 
 
 
-# Rupali Wadhawan's Portfolio Projects
+# Ashkan Moradi's Portfolio
 
 ## Overview
+This portfolio is divided into three catagories such as **'Python'**, **'T-SQL'** and **'Power BI'**.
 This repository contains a collection of innovative projects showcasing my expertise in data science, AI, and data solutions development. Each project demonstrates different aspects of my technical skills and problem-solving abilities.
 
 ## Portfolio Website
