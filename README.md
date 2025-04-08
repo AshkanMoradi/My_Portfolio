@@ -66,4 +66,4 @@ Data-driven patrol optimization using predictive analytics.
 ## Made by Rupali Wadhawan
 
 ## Contact
-- 📫 If you have any question don't hesitate to contact me on [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
+📫 If you have any question don't hesitate to contact me on [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
