@@ -1,8 +1,9 @@
 # Ashkan Moradi's Portfolio
 
 ## Overview
-This portfolio is divided into three catagories such as **'Python'**, **'T-SQL'** and **'Power BI'**.
-This repository contains a collection of innovative projects showcasing my expertise in data science, AI, and data solutions development. Each project demonstrates different aspects of my technical skills and problem-solving abilities.
+This portfolio is divided into three catagories as **Python**, **T-SQL** and **Power BI**.
+This repository contains a collection of innovative projects showcasing my expertise in roles as data analyst, Business Intelligent Analyst and Power BI Developer. 
+Each project demonstrates different aspects of my technical skills and problem-solving abilities.
 
 ## Portfolio Website
 Visit my portfolio website: [Live Portfolio](https://rupaliwadhawan.com)
