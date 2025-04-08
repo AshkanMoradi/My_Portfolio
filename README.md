@@ -5,9 +5,6 @@ This portfolio is divided into three catagories as **Python**, **T-SQL** and **P
 This repository contains a collection of innovative projects showcasing my expertise in roles as data analyst, Business Intelligence Analyst and Power BI Developer. 
 Each project demonstrates different aspects of my technical skills.
 
-## Portfolio Website
-Visit my portfolio website: [Live Portfolio](https://rupaliwadhawan.com)
-
 ## Projects
 
 ### 1. FinanceBro 🚀
