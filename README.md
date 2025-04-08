@@ -1,9 +1,3 @@
-###  My Data Analysis portfolio 
-  
-- 📫 If you have any question don't hesitate to contact me on [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
-
-
-
 # Ashkan Moradi's Portfolio
 
 ## Overview
@@ -72,6 +66,4 @@ Data-driven patrol optimization using predictive analytics.
 ## Made by Rupali Wadhawan
 
 ## Contact
-- LinkedIn: [Rupali Wadhawan](https://www.linkedin.com/in/rupali-wadhawan-5477817b/)
-- Email: rupaliwadhawan23@gmail.com
-- GitHub: [@rupaliwadhawan1](https://github.com/rupaliwadhawan1)
+- 📫 If you have any question don't hesitate to contact me on [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
