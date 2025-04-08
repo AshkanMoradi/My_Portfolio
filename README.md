@@ -2,8 +2,8 @@
 
 ## Overview
 This portfolio is divided into three catagories as **Python**, **T-SQL** and **Power BI**.
-This repository contains a collection of innovative projects showcasing my expertise in roles as data analyst, Business Intelligent Analyst and Power BI Developer. 
-Each project demonstrates different aspects of my technical skills and problem-solving abilities.
+This repository contains a collection of innovative projects showcasing my expertise in roles as data analyst, Business Intelligence Analyst and Power BI Developer. 
+Each project demonstrates different aspects of my technical skills.
 
 ## Portfolio Website
 Visit my portfolio website: [Live Portfolio](https://rupaliwadhawan.com)
