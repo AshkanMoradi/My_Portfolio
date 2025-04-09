@@ -6,11 +6,11 @@ This repository contains a collection of innovative projects showcasing my exper
 Each project demonstrates different aspects of my technical skills.
 
 ## Power BI
-This section includes some of my dashboards desigend be Microsoft Power BI.
+This section includes some of my dashboards desigend and modeled in Microsoft Power BI.
 ## Python
-This section includes some of my projects and practices in python language.
+This section includes some of my scripts and practices using python language.
 ## T-SQL
-This section includes some of my SQL queries in SQL Server Management Studio (SSMS).
+This section includes some of my T-SQL queries executed in SQL Server Management Studio (SSMS).
 
 ## Repository Structure
 ```
