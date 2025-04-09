@@ -5,6 +5,13 @@ This portfolio is divided into three catagories as  **Power BI**, **Python**,and
 This repository contains a collection of innovative projects showcasing my expertise in roles as Data analyst, Business Intelligence Analyst and Power BI Developer. 
 Each project demonstrates different aspects of my technical skills.
 
+## Power BI
+This section includes some of my dashboards desigend be Microsoft Power BI.
+## Power BI
+This section includes some of my projects and practices in python language.
+## T-SQL
+This section includes some of my SQL queries in SQL Server Management Studio (SSMS).
+
 ## Repository Structure
 ```
 ├── Power BI/
