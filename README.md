@@ -7,7 +7,7 @@ Each project demonstrates different aspects of my technical skills.
 
 ## Power BI
 This section includes some of my dashboards desigend be Microsoft Power BI.
-## Power BI
+## Python
 This section includes some of my projects and practices in python language.
 ## T-SQL
 This section includes some of my SQL queries in SQL Server Management Studio (SSMS).
