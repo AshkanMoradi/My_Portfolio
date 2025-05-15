@@ -1,7 +1,7 @@
-# Ashkan Moradi's Portfolio
+# Ashkan Moradi's Portfolio (Work in progress!)
 
 ## Overview
-This portfolio is divided into three catagories as  **Power BI**, **Python**,and **T-SQL**.
+This portfolio is divided into three categories as  **Power BI**, **Python**,and **T-SQL**.
 This repository contains a collection of innovative projects showcasing my expertise in roles as Data analyst, Business Intelligence Analyst and Power BI Developer. 
 Each project demonstrates different aspects of my technical skills.
 
