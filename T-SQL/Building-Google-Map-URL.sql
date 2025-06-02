@@ -7,7 +7,8 @@ CONCAT(ad.Latitude,',',ad.Longitude) as Concatinated_Customer_Cordinates,
 --hs.Latitude as 'Sale_Latitude', hs.Longitude as 'Sale_Longitude',
 CONCAT(hs.Latitude,',',hs.Longitude) as Concatinated_Sales_Cordinates
 --i.Latitude as 'Invoice_Latitude',i.Longitude as 'Invoice_Longitude'
-FROM [TehranDB].[SLS3].[Customer] c 
+FROM [TehranDB].[SLS3].[Customer] c
+-- Due to sensitivity, Datebase Name is replaced with 'DATABASE_NAME' 
 INNER JOIN [DATABASE_NAME].[SLS3].[CustomerAddress] a      ON c.CustomerID=a.CustomerRef
 INNER JOIN [DATABASE_NAME].[GNR3].[Address] ad             ON a.AddressRef=ad.AddressID
 INNER JOIN [DATABASE_NAME].[SLS3].[SaleRequest] s          ON s.CustomerRef=c.CustomerID
